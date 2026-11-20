@@ -90,15 +90,3 @@ npm run build
 
 ---
 
-## 🏆 Presentation Guide for Hackathon Judges & Evaluators
-
-1. **The Hook (Minute 0-1)**: Show the Landing Page comparison table. Contrast how standard 2-drug lookups miss 3-drug synergistic toxicity.
-2. **The Problem**: Introduce elderly polypharmacy patient Eleanor Vance (72y, CKD Stage 3, taking Warfarin + Amiodarone + Simvastatin).
-3. **Live Analysis (Minute 1-2)**: Run the GNN analysis and showcase the Higher-Order Interaction Spotlight. Explain how dual CYP3A4/CYP2C9 saturation + OATP1B1 inhibition triggers rhabdomyolysis and hemorrhage.
-4. **The Graph (Minute 2-3)**: Open the Knowledge Graph Explorer, toggle the GraphSAGE Attention Heatmap, and click the CYP3A4 node to inspect UniProt and PubChem details.
-5. **The AI Agent & Alternatives (Minute 3-4)**: Query the PubMed AI Agent for supporting trial evidence (PMID: 28938172), then navigate to Alternative Research to demonstrate how Pravastatin bypasses CYP3A4.
-6. **What-If Sandbox & Report (Minute 4-5)**: Show the What-If Sandbox reducing risk by 48 points, and generate the final CDS Report with digital signature and PDF export.
-
----
-
-*Academic & Research Prototype • Designed for Healthcare Safety Innovation*
